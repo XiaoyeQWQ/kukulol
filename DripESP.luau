@@ -1,38 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+--作者并不是我 作者是xk hub(小玄奘)
 local DripESP = {}
 local connections = {}
 local all_settings = {}
